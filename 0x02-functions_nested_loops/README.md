@@ -1,1 +1,1 @@
- this assignment is done by phone
+C - Variables, if, else, while assignment
